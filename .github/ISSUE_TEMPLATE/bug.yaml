@@ -248,6 +248,11 @@ body:
         Describe any debugging steps you've taken, a workaround you've
         figured out, or any other information you think we might need,
         including links or references.
+        <details><summary>Click here.</summary>
+
+          foo
+
+        </details>
     validations:
       required: false
 ...
