@@ -74,8 +74,7 @@ body:
   - type: checkboxes
     id: labels
     attributes:
-      label: Choose one or more terms that describe this issue.
-      description: You may select more than one.
+      label: "Choose one or more terms that describe this issue:"
       options:
         - label: autokey triggers
         - label: autokey-gtk
