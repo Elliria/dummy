@@ -51,7 +51,7 @@ Support
 
 Please do not request support on the issue tracker. Instead, head over to the autokey-users `Google Groups`_ forum, `Gitter`_ web-based chat, on `IRC`_ (#autokey on `Libera.Chat`_), or `Stack Overflow`_.
 
-We'd appreciate it if you take a look at `Troubleshooting`_ wiki page before posting. By providing as much information as you can, you'll have a much better chance of getting a good answer in less time.
+We'd appreciate it if you take a look at our `Troubleshooting`_ wiki page before posting. You'll be more likely to get a good answer quickly by providing as much information as you can.
 
 .. _Google Groups: https://groups.google.com/forum/#!forum/autokey-users
 .. _Stack Overflow: https://stackoverflow.com/questions/tagged/autokey
@@ -62,7 +62,9 @@ We'd appreciate it if you take a look at `Troubleshooting`_ wiki page before pos
 
 Bug reports
 ===========
-Bug reports are welcome. Please use the `GitHub Issue Tracker`_ for bug reports. When reporting a suspected bug, please make sure to include as much information as possible to expedite troubleshooting and resolution. Some possible examples:
+Bug reports are welcome. Please use the `GitHub Issue Tracker`_ for bug reports. When reporting a suspected bug, please make sure to include as much information as possible to expedite troubleshooting and resolution.
+
+Here are some possible examples of the type of information you might need to provide:
 
 * How to reproduce the issue you are experiencing.
 * `Python tracebacks`_, if applicable.
