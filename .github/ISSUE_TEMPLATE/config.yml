@@ -1,18 +1,18 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 🏃 Getting Started Guide
+  - name: ➡ Getting Started Guide
     url: https://github.com/autokey/autokey/wiki/Beginners-Guide
     about: Getting started with AutoKey.
 
-  - name: 🤔 Frequently Asked Questions
+  - name: ➡ Frequently Asked Questions
     url: https://github.com/autokey/autokey/wiki/FAQ
     about: Frequently Asked Questions about AutoKey.
 
-  - name: ❓ Ask Your Own Question
+  - name: ➡ Ask Your Own Question
     url: https://github.com/autokey/autokey/discussions
     about: Ask a question or request support for using AutoKey
     
-  - name: 🅰 Join Our Community
+  - name: ➡ Join Our Community
     url: https://gitter.im/autokey/autokey
     about: Chat with us on Gitter.
     
