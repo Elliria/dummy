@@ -20,12 +20,12 @@ AutoKey
 
 About
 =====
-`AutoKey`_, a desktop automation utility for Linux and X11, formerly hosted at `OldAutoKey`_. Updated to run on Python 3.
+`AutoKey`_, a desktop automation utility for Linux and X11, formerly hosted on `Google`_, has been updated to run on Python 3.
 
 **Important**: This is an X11 application and, as such, will not function correctly when Wayland is in use instead of Xorg.
 
 .. _AutoKey: https://github.com/autokey/autokey
-.. _OldAutoKey: https://code.google.com/archive/p/autokey/
+.. _Google: https://code.google.com/archive/p/autokey/
 
 Installation
 ============
