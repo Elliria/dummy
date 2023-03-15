@@ -49,12 +49,12 @@ AutoKey documentation is available `here <https://autokey.github.io/autokey/inde
 Support
 =======
 
-Please do not request support on the issue tracker. Instead, head over to the autokey-users `Google Groups`_ forum, `Gitter`_ web-based chat, on `IRC`_ (#autokey on `Libera.Chat`_), or `StackOverflow`_.
+Please do not request support on the issue tracker. Instead, head over to the autokey-users `Google Groups`_ forum, `Gitter`_ web-based chat, on `IRC`_ (#autokey on `Libera.Chat`_), or `Stack Overflow`_.
 
 We'd appreciate it if you take a look at `Troubleshooting`_ wiki page before posting. By providing as much information as you can, you'll have a much better chance of getting a good answer in less time.
 
 .. _Google Groups: https://groups.google.com/forum/#!forum/autokey-users
-.. _StackOverflow: https://stackoverflow.com/questions/tagged/autokey
+.. _Stack Overflow: https://stackoverflow.com/questions/tagged/autokey
 .. _IRC: https://web.libera.chat/#autokey
 .. _Libera.Chat: https://libera.chat/guides/
 .. _Gitter: https://gitter.im/autokey/autokey
