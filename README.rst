@@ -32,7 +32,7 @@ Installation
 
 **Important**: Please remove previous installations of AutoKey fully before installing!
 
-For detailed installation instructions, please visit the `Installing`_ page. in our wiki.
+For detailed installation instructions, please visit the `Installing`_ page in our wiki.
 
 .. _Installing: https://github.com/autokey/autokey/wiki/Installing
 
