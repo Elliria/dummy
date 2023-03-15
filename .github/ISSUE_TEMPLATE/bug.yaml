@@ -2,8 +2,7 @@
 name: "Open a new issue using our issue-reporting form:"
 description: >
   Having an issue with AutoKey? Answer a few questions in our report
-  form to help us solve the issue as quickly as possible. Please click
-  the "Get started" button when you're ready to begin.
+  form to help us solve the issue as quickly as possible.
 labels: new issue
 body:
 
