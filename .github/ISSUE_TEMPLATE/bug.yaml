@@ -17,19 +17,10 @@ body:
         - Medium: 500 - 1000 changes
         - Small: Less than 500 changes
       options:
+        required: true
         - label: Large (Breaking)
-          required: true
         - label: Medium (Breaking)
-          required: true
         - label: Small (Breaking)
-          required: true
-        - label: Large (Not breaking)
-          required: true
-        - label: Medium (Not breaking)
-          required: true
-        - label: Small (Not breaking)
-          required: true
-
 
 
 
