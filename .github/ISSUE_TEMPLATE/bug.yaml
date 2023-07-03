@@ -6,6 +6,34 @@ description: >
 labels: new issue
 body:
 
+  # Checkboxes example
+  - type: checkboxes
+    attributes:
+      limit: 1 # Only allow 1 selection
+      label: Size (Breaking?)
+      description: |-
+        Please select the size of the change and if it is breaking.
+        
+        - Large: More than 1000 changes
+        - Medium: 500 - 1000 changes
+        - Small: Less than 500 changes
+      options:
+        - label: Large (Breaking)
+          required: true
+        - label: Medium (Breaking)
+          required: true
+        - label: Small (Breaking)
+          required: true
+        - label: Large (Not breaking)
+          required: true
+        - label: Medium (Not breaking)
+          required: true
+        - label: Small (Not breaking)
+          required: tru
+
+
+
+
   # DO YOU USE XORG OR WAYLAND?
   - type: dropdown
     id: display-server-technology
