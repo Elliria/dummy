@@ -29,7 +29,7 @@ body:
         - label: Medium (Not breaking)
           required: true
         - label: Small (Not breaking)
-          required: tru
+          required: true
 
 
 
