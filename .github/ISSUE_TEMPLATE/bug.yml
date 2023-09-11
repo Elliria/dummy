@@ -3,6 +3,7 @@ name: "Open a new issue:"
 description: >
   Having an issue with AutoKey? Answer a few questions in our report
   form to help us solve the issue as quickly as possible.
+title: "[Issue]: "
 labels: new issue
 body:
 
